@@ -1,3 +1,5 @@
 # tic-tac-toe-game
 <br>
-by Bharti Madaan
+by Bharti Madaan (web developer)
+
+
